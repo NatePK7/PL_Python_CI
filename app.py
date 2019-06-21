@@ -2,5 +2,6 @@
 	'''
 	Input a string 
 	Output the capitalized string
+	added change
 	'''
 	return text.title()
